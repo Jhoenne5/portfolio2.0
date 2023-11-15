@@ -182,7 +182,7 @@ const Navbar = () => {
         initial={{y:-10, opacity:0}}
         animate={{y:0, opacity:1}}
         transition={{duration:1, delay:1.5}}
-        href="" target='blank'>
+        href="https://www.facebook.com/jawnjawnjawnjawnjawn" target='blank'>
             <span className='w-11 h-11 text-xl bg-hoverColor rounded-full inline-flex first-letter 
             items-center justify-center hover:text-textGreen cursor-pointer
             hover:-translate-y-2 translate-all duration-300
@@ -192,7 +192,7 @@ const Navbar = () => {
          initial={{y:-10, opacity:0}}
          animate={{y:0, opacity:1}}
          transition={{duration:2, delay:1.5}}
-            href="" target='blank'>
+            href="https://www.linkedin.com/in/jhoenne-estrecho-70a958234/" target='blank'>
             <span className='w-11 h-11 text-xl bg-hoverColor rounded-full inline-flex first-letter 
             items-center justify-center hover:text-textGreen cursor-pointer
             hover:-translate-y-2 translate-all duration-300
@@ -202,7 +202,7 @@ const Navbar = () => {
           initial={{y:-10, opacity:0}}
           animate={{y:0, opacity:1}}
           transition={{duration:3, delay:1.5}}
-            href="" target='blank'>
+            href="https://www.instagram.com/jaaaawwwwnnnn/?hl=en" target='blank'>
             <span className='w-11 h-11 text-xl bg-hoverColor rounded-full inline-flex first-letter 
             items-center justify-center hover:text-textGreen cursor-pointer
             hover:-translate-y-2 translate-all duration-300
@@ -212,7 +212,7 @@ const Navbar = () => {
           initial={{y:-10, opacity:0}}
           animate={{y:0, opacity:1}}
           transition={{duration:4, delay:1.5}}
-            href="" target='blank'>
+            href="https://twitter.com/jawnjawn1234" target='blank'>
             <span className='w-11 h-11 text-xl bg-hoverColor rounded-full inline-flex first-letter 
             items-center justify-center hover:text-textGreen cursor-pointer
             hover:-translate-y-2 translate-all duration-300
