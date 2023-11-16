@@ -21,7 +21,7 @@ const Navbar = () => {
         transition={{duration:2, delay:1}}
         style={{borderRadius:"50%", overflow:"hidden"}}
         >
-          <Image  src={Logo} className="w-14" alt="logo"  />
+      
         </motion.div>
 
         <div className="hidden mdl:inline-flex items-center gap-7" >
